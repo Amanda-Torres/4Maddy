@@ -43,7 +43,7 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
 
 <br/>
 <div style="display: inline-block;">
-  <a href="https://github.com/Gabriel-Paes">
+  <a href="https://github.com/4Maddy">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=4Maddy&show_icons=true&bg_color=0D1117&border_color=f7394e&title_color=F0DB4F&text_color=C9D1CC&icon_color=f08a4f&ring_color=F0DB4F&include_all_commits=true&count_private=true"/>
   <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Maddy&layout=compact&langs_count=10&bg_color=0D1117&border_color=f7394e&title_color=F0DB4F&text_color=C9D1CC"/>
 </div>
