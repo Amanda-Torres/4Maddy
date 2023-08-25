@@ -19,6 +19,8 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img style="align: center; height: 40px; width: 50px;" alt="HTML" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img style="align: center; height: 40px; width: 50px;" alt="Sass" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"" />
   <br>
 </div>
 
@@ -40,8 +42,8 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
 </div>
 
 <br/>
-<div style="display: inline-block">
+<div style="display: inline-block;">
   <a href="https://github.com/Gabriel-Paes">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=4Maddy&show_icons=true&bg_color=300,FFFFFF,f698a2,ff2845&border_color=83154b&title_color=83154b&text_color=83154b&icon_color=83154b&ring_color=83154b&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Maddy&layout=compact&langs_count=10&bg_color=30,F79FA9,fff,fff&border_color=83154b&title_color=83154b&text_color=83154b"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=4Maddy&show_icons=true&bg_color=0D1117&border_color=f7394e&title_color=F0DB4F&text_color=C9D1CC&icon_color=f08a4f&ring_color=F0DB4F&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Maddy&layout=compact&langs_count=10&bg_color=0D1117&border_color=f7394e&title_color=F0DB4F&text_color=C9D1CC"/>
 </div>
