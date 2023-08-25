@@ -38,4 +38,10 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
   <img style="align: center; height: 40px; width: 50px;" alt="Bootstrap" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-          
+
+<br/>
+<div style="display: inline-block">
+  <a href="https://github.com/Gabriel-Paes">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=4Maddy&show_icons=true&bg_color=300,FFFFFF,f698a2,ff2845&border_color=83154b&title_color=83154b&text_color=83154b&icon_color=83154b&ring_color=83154b&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Maddy&layout=compact&langs_count=10&bg_color=30,F79FA9,fff,fff&border_color=83154b&title_color=83154b&text_color=83154b"/>
+</div>
