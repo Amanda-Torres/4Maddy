@@ -11,8 +11,6 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
   <br>
   <img style="align: center; height: 40px; width: 50px;" alt="C" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img style="align: center; height: 40px; width: 50px;" alt="C++" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img style="align: center; height: 40px; width: 50px;" alt="Java" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="align: center; height: 40px; width: 50px;" alt="CSS" 
@@ -34,9 +32,3 @@ Atualmente estou cursando o 4º semestre de Analise e Desenvolvimento de Sistema
   <br>
 </div>
 
-## Aprendendo
-<div style="display: inline-block;">
-  <br>
-  <img style="align: center; height: 40px; width: 50px;" alt="Bootstrap" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
